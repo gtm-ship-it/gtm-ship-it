@@ -7,9 +7,13 @@ Multi-branch businesses lose revenue in that gap: slow first contact, inconsiste
 bad data, no branch-level visibility. I build systems that close it — and hand the human a
 qualified conversation with the context already attached.
 
-I'm the technical co-founder of [PTS AI](https://ptsai.ai). I designed the architecture, wrote
-the serverless and orchestration layer, and run it in production for consumer-lending and
-tax-prep branch networks.
+I'm the technical co-founder of [PTS AI](https://ptsai.ai), building this for consumer-lending
+branch networks. Architecture, the serverless layer, and the orchestration design are mine;
+workflow implementation and client reporting are shared with a small team.
+
+**[Growth Engine](https://github.com/gtm-ship-it/growth-engine)** — architecture and the
+handoff contract ·
+**[branch-manifest](https://github.com/gtm-ship-it/branch-manifest)** — runnable, 13 tests
 
 ---
 
@@ -52,12 +56,14 @@ including my own.
 
 ---
 
-## Work samples
+## On what's not here
 
-The production system is private — it processes customer records and encodes how the business
-operates. I maintain sanitized write-ups of the architecture and the handoff model, plus a
-runnable config-validation tool with tests. Happy to walk through them, or share access, in a
-conversation.
+The production system is private: it processes customer records and encodes how the business
+operates. The two repos above are the architecture and the tooling, written from that work with
+fictional data.
+
+Client volumes and rates aren't published. I can walk through them in conversation — I don't
+publish client figures without written consent.
 
 ---
 
