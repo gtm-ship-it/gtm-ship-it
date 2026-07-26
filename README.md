@@ -101,3 +101,5 @@ Everything ships bilingual (EN/ES), because the operators using it are.
 
 Open to conversations about founding-engineer and technical-lead roles in applied AI,
 and about revenue systems for multi-branch operators.
+
+<!-- profile -->
